@@ -1,0 +1,27 @@
+{
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "name": "node-db4-project",
+  "description": "## Instructions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amado4884/node-db4-project.git"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "knex": "^0.21.6",
+    "sqlite3": "^5.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amado4884/node-db4-project/issues"
+  },
+  "homepage": "https://github.com/amado4884/node-db4-project#readme"
+}
